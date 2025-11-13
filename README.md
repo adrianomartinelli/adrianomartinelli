@@ -29,22 +29,28 @@ about bridging machine learning and biomedical discovery while building reproduc
 
 ## 📚 Publications & Talks
 
-- **ATHENA:** A Python package to analyse tumour heterogeneity in spatial single-cell data — *Bioinformatics*, 2022 (
-  First Author)
-- **scQUEST:** Quantifying tumour ecosystem heterogeneity from mass or flow cytometry data — *STAR Protocols*, 2022 (
-  First Author)
-- **SpatialProteomicsNet:** Unified access, preparation, and loading of spatial proteomics datasets — *Journal of Open
-  Source Software* (under review), 2025 (First Author)
-- **DEL-Hit:** Computational framework for DNA-encoded chemical library analysis — in preparation, 2025 (First Author)
-- **Cellular and molecular profiling of the prostate cancer microenvironment reveals stromal and immune signatures of
-  disease progression** — in preparation, 2025 (First Author)
-- Multiplexed tumour profiling with generative AI accelerates histopathology workflows and improves clinical
-  predictions — *Nature Machine Intelligence*, 2023 (Co-Author)
-- Highly pure DNA-encoded chemical libraries by dual-linker solid-phase synthesis — *Science*, 2023 (Co-Author)
-- Spatially Resolved Analysis of Cancer-Associated Fibroblasts in Prostate Cancer Using Imaging Mass Cytometry — *BC2
-  2025* (Talk)
-- Quantifying Spatial Tumor Heterogeneity Using Single-Cell Proteomics — *ISMB 2022*, *AMIA 2021* (Talk, Distinguished
-  Poster Award)
+- **A. Martinelli**, F. Bonollo, S. Karkampouna, et al.  
+  *Cellular and molecular profiling of the prostate cancer microenvironment.* In preparation, 2025.
+
+- **A. Martinelli**, A. Lessing, G. Hoppeler, et al.  
+  *DEL-Hit: a computational framework for DNA-encoded libraries.* In preparation, 2025.
+
+- **A. Martinelli**, M. Rapsomaniki.  
+  *SpatialProteomicsNet: unified access to spatial proteomics datasets.* *Journal of Open Source Software* (under review), 2025.
+
+- P. Pati, S. Karkampouna, F. Bonollo, ..., **A. Martinelli**, et al.  
+  [*Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling.*](https://doi.org/10.1038/s42256-024-00889-5) *Nature Machine Intelligence*, 2024.
+
+- M. Keller, D. Petrov, A. Glogger, ..., **A. Martinelli**, et al.  
+  [*Highly pure DNA-encoded chemical libraries by dual-linker solid-phase synthesis.*](https://doi.org/10.1126/science.adn3412) *Science*, 2023.
+
+- **A. Martinelli**, M. A. Rapsomaniki.  
+  [*ATHENA: analysis of tumor heterogeneity from spatial omics measurements.*](https://doi.org/10.1093/bioinformatics/btac303) *Bioinformatics*, 2022.
+
+- **A. Martinelli**, J. Wagner, B. Bodenmiller, et al.  
+  [*scQUEST: scQUEST: Quantifying tumor ecosystem heterogeneity from mass or flow cytometry data.*](https://doi.org/10.1016/j.xpro.2022.101578) *STAR Protocols*, 2022.
+
+
 
 🔍 See more on [Google Scholar](https://scholar.google.com/citations?user=deqDWAMAAAAJ&hl=en).
 
