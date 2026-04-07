@@ -2,10 +2,11 @@
 
 ## 👤 Profile
 
-Machine learning engineer and data scientist specializing in computational biology, computer vision, and translational
-research. Currently completing an industry PhD at ETH Zurich in collaboration with IBM Research Zurich and the
-University Hospital Lausanne, developing computer-vision methods for spatial omics data in cancer research. Passionate
-about bridging machine learning and biomedical discovery while building reproducible, open-source tools.
+Machine learning engineer and data scientist with experience across healthcare, reinsurance, and construction, 
+specializing in computational biology and computer vision. Develops methods for spatial omics data in cancer research
+and builds end-to-end ML pipelines and open-source tools, translating research into real-world applications.
+Familiar with drug discovery workflows and pharmaceutical R&D, with a focus on connecting machine learning to
+biomedical discovery.
 
 ## 🛠️ Skills
 
@@ -18,6 +19,7 @@ about bridging machine learning and biomedical discovery while building reproduc
 
 ## 🚀 Project Contributions
 
+- [Multi-Modal Representation Learning for HnE and Xenium](https://github.com/AI4SCR/xenium-hne-fusion) - A novel early-fusion model for multi modal representation of Xenium and HnE modalities.
 - [**ATHENA**](https://github.com/AI4SCR/ATHENA) — Python toolkit for representation learning and statistical analysis
   of spatial single-cell data.
 - [**SpatialProteomicsNet**](https://github.com/AI4SCR/ai4bmr-datasets) — Unified data access layer for spatial omics
@@ -29,14 +31,15 @@ about bridging machine learning and biomedical discovery while building reproduc
 
 ## 📚 Publications & Talks
 
-- **A. Martinelli**, F. Bonollo, S. Karkampouna, et al.  
-  *Cellular and molecular profiling of the prostate cancer microenvironment.* In preparation, 2025.
+- **A. Martinelli**, B. Illing, I. Katircioglu, et al.
+  [*Learning Joint Morpho-Molecular Tissue Representations with a Multimodal Transformer.*](https://openreview.net/forum?id=h2GcySraTP) ICLR, 2026.
 
-- **A. Martinelli**, A. Lessing, G. Hoppeler, et al.  
-  *DEL-Hit: a computational framework for DNA-encoded libraries.* In preparation, 2025.
+- **A. Martinelli**, M. Rapsomaniki.
+  [*SpatialProteomicsNet: unified access to spatial proteomics datasets.*](10.21105/joss.08780) *Journal of Open Source Software*, 2026.
 
-- **A. Martinelli**, M. Rapsomaniki.  
-  *SpatialProteomicsNet: unified access to spatial proteomics datasets.* *Journal of Open Source Software* (under review), 2025.
+- **A. Martinelli**, A. Lessing, G. Hoppeler, et al. *DEL-Hit: a computational framework for DNA-encoded libraries.* Under review, 2026.
+
+- **A. Martinelli**, F. Bonollo, S. Karkampouna, et al. *Cellular and molecular profiling of the prostate cancer microenvironment.* In preparation, 2026.
 
 - P. Pati, S. Karkampouna, F. Bonollo, ..., **A. Martinelli**, et al.  
   [*Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling.*](https://doi.org/10.1038/s42256-024-00889-5) *Nature Machine Intelligence*, 2024.
@@ -53,6 +56,3 @@ about bridging machine learning and biomedical discovery while building reproduc
 
 
 🔍 See more on [Google Scholar](https://scholar.google.com/citations?user=deqDWAMAAAAJ&hl=en).
-
-[![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianomartinelli&card_width=300px&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianomartinelli&theme=highcontrast&background=000000&card_width=400)](https://git.io/streak-stats)
