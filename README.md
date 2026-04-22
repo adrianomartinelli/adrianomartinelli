@@ -38,7 +38,7 @@ biomedical discovery.
 - **A. Martinelli**, M. Rapsomaniki.
   [*SpatialProteomicsNet: unified access to spatial proteomics datasets.*](10.21105/joss.08780) *Journal of Open Source Software*, 2026.
 
-- **A. Martinelli**, A. Lessing, G. Hoppeler, et al. *DEL-Hit: a computational framework for DNA-encoded libraries.* Under review, Under revision at Nature Protocols, 2026.
+- **A. Martinelli**, A. Lessing, G. Hoppeler, et al. *DEL-Hit: a computational framework for DNA-encoded libraries.* Under revision at Nature Protocols, 2026.
 
 - **A. Martinelli**, F. Bonollo, S. Karkampouna, et al. *Cellular and molecular profiling of the prostate cancer microenvironment.* Under review at Nature Communications, 2026.
 
