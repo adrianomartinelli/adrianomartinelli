@@ -20,6 +20,7 @@ biomedical discovery.
 ## 🚀 Project Contributions
 
 - [Multi-Modal Representation Learning for HnE and Xenium](https://github.com/AI4SCR/xenium-hne-fusion) - A novel early-fusion model for multi modal representation of Xenium and HnE modalities.
+- [OmicsEmbed](https://github.com/AI4SCR/omics-embeddings): A standardized data processing and self-supervised learning framework for highly multiplexed tissue images, with a focus on imaging mass cytometry.
 - [**ATHENA**](https://github.com/AI4SCR/ATHENA) — Python toolkit for representation learning and statistical analysis
   of spatial single-cell data.
 - [**SpatialProteomicsNet**](https://github.com/AI4SCR/ai4bmr-datasets) — Unified data access layer for spatial omics
