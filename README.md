@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriano%20Martinelli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinelliadriano/)
+
 # Adriano Martinelli
 
 ## 👤 Profile
