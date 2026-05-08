@@ -42,7 +42,8 @@ biomedical discovery.
 
 - **A. Martinelli**, A. Lessing, G. Hoppeler, et al. *DEL-Hit: a computational framework for DNA-encoded libraries.* Under revision at Nature Protocols, 2026.
 
-- **A. Martinelli**, F. Bonollo, S. Karkampouna, et al. *Cellular and molecular profiling of the prostate cancer microenvironment.* Under review at Nature Communications, 2026.
+- **A. Martinelli**, F. Bonollo, S. Karkampouna, et al. *[Spatial single-cell proteomics defines multicellular niches in the primary
+prostate cancer microenvironment](https://www.biorxiv.org/content/10.64898/2026.04.30.721907v1.full.pdf).* Under review at Nature Communications, 2026.
 
 - P. Pati, S. Karkampouna, F. Bonollo, ..., **A. Martinelli**, et al.  
   [*Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling.*](https://doi.org/10.1038/s42256-024-00889-5) *Nature Machine Intelligence*, 2024.
